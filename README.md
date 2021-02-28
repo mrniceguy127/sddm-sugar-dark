@@ -1,6 +1,6 @@
 # Why the fork?
 
-I made some slight modifications for my own setup. Having it on git makes it easy to clone on new OS installs.
+I made some slight modifications for my own setup. Having this on GitHub makes it easy to clone on new OS installs.
 
 ## Edited background source:
 
