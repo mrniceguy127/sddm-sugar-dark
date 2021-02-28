@@ -1,3 +1,13 @@
+# Why the fork?
+
+I made some slight modifications for my own setup. Having it on git makes it easy to clone on new OS installs.
+
+## Edited background source:
+
+- Wallpapers/orig-wp0003.1s.3n.png - Source: [Pixiv Artist: @えむかみ](https://www.pixiv.net/en/artworks/58823660)
+
+
+
 ![Screenshot of the interface of the Sugar Dark theme for SDDM](Previews/Mockup.jpg "The default interface of the Sugar Dark theme for SDDM")
 
 # Sugar Dark login theme for SDDM
